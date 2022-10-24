@@ -19,3 +19,5 @@
 ## 4th release
 
 ## 0.4.1 hotfix
+
+## 0.4.2 release
