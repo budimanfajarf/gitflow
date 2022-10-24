@@ -23,3 +23,5 @@
 ## 0.4.2 release
 
 ## 0.4.3 hotfix
+
+## 0.4.4 hotfix
