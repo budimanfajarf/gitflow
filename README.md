@@ -1,4 +1,6 @@
-# gitflow-github
+# GitFlow
+
+This repo used just for testing my SSH Keys & GPG Keys on remote repositories
 
 ## 1st feature
 
@@ -27,3 +29,5 @@
 ## 0.4.4 hotfix
 
 ## 0.4.5 hotfix
+
+## 0.5.0 release
