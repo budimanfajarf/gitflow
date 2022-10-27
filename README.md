@@ -25,3 +25,5 @@
 ## 0.4.3 hotfix
 
 ## 0.4.4 hotfix
+
+## 0.4.5 hotfix
